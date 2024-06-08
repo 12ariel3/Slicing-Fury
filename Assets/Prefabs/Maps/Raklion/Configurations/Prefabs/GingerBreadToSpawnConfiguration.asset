@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 242c24f65eee9a14491d62ff9fb8920f, type: 3}
+  m_Name: GingerBreadToSpawnConfiguration
+  m_EditorClassIdentifier: 
+  _projectileId: {fileID: 11400000, guid: 1af028262fa0adc499035eb202bbf966, type: 2}
+  _name: GingerBread
+  _explosionName: GingerBread
+  _score: 41
+  _gems: 5
+  _gemsProbability: 50
+  _experience: 1793
+  _maxHp: 29
+  _attack: 10
+  _isSpecial: 0

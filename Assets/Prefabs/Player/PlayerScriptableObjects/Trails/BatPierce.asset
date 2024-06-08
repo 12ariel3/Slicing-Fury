@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be473dfe5ec0a54bb2be3e8d85cb24f, type: 3}
+  m_Name: BatPierce
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: b3a4c947bb79c5149b47682336484dd9, type: 2}
+  _trailRenderer: {fileID: 7466732591561287462, guid: a53f22d42047f5f4d87595d464cc2085, type: 3}
+  _trailUpgradeBaseValue: 20
+  _trailUnlockScoreCost: 15600
+  _trailUnlockGemsCost: 1470
+  _trailBaseHp: 2000
+  _trailBaseAttack: 240
+  _trailCriticalMultiplier: 0.2
+  _trailCriticalProbability: 0.07
+  _trailExcelentMultiplier: 0.1
+  _trailExcelentProbability: 0.05
+  _trailHpAbsorbProbability: 0.5
+  _trailHpAbsorbDenominator: 17
+  _trailMultipleHitsProbability: 0.3
+  _swordImage: {fileID: -1005748386, guid: 11c50ab56fc1f35498c28110c32f760d, type: 3}
+  _deepBackground: {r: 0.3773585, g: 0, b: 0, a: 0}
+  _background: {r: 0.6886792, g: 0, b: 0, a: 0}
+  _iconBackground: {r: 0.85882354, g: 0.33979988, b: 0, a: 0}
+  _nameColor: {r: 1, g: 0, b: 0, a: 0}
+  _levelColor: {r: 1, g: 0, b: 0, a: 0}

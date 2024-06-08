@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 242c24f65eee9a14491d62ff9fb8920f, type: 3}
+  m_Name: GemToSpawnConfiguration
+  m_EditorClassIdentifier: 
+  _projectileId: {fileID: 11400000, guid: ecea870e15d07f440abfebbf3a76fa60, type: 2}
+  _name: Gem
+  _explosionName: Gem
+  _score: 20
+  _gems: 1
+  _gemsProbability: 50
+  _experience: 122
+  _maxHp: 8
+  _attack: 5
+  _isSpecial: 0

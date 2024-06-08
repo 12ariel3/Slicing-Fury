@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a85729eeb62ccd341b0609bf9131805e, type: 3}
+  m_Name: ExplosionParticleSystemConfiguration
+  m_EditorClassIdentifier: 
+  _specialExplosionPrefabs:
+  - {fileID: 8361577473741586562, guid: 2e1e9506f5904a64b81744324fb7cd50, type: 3}
+  - {fileID: 7027493179989664270, guid: c99b97ca587dca94280d8e2c07c575b3, type: 3}
+  - {fileID: 8282470717919767231, guid: 6f34ef0d986e9db4199cf75805f79753, type: 3}
+  - {fileID: 5962520335034971818, guid: 33c2f4ff661571346a673060a3be93cd, type: 3}
+  _moonWalkerExplosionPrefabs:
+  - {fileID: -3816665447230695631, guid: ea6687b73ff224448b7aba7846b69992, type: 3}
+  - {fileID: -3816665447230695631, guid: ceec7516237b4104b94300043ca39784, type: 3}
+  - {fileID: -3816665447230695631, guid: 7c939bc0e38ed1c4aac1a162d7957a0b, type: 3}
+  - {fileID: -2071027693300666269, guid: e0da7841d62f0f449bb8cece03cf119b, type: 3}
+  - {fileID: 4587030946202445685, guid: 64da139841e58c1438ed45fd4374bfd0, type: 3}
+  - {fileID: 2086177163481068707, guid: 0f4d2016397993046a85396ddcf9d3de, type: 3}
+  - {fileID: 8173469868439634496, guid: 6576688b86e73094e967c516942bbdb8, type: 3}
+  _atlansAbyssExplosionPrefabs:
+  - {fileID: -3816665447230695631, guid: 15e9789c8b0055342be4cfbc86731b7e, type: 3}
+  - {fileID: -6848649243419743727, guid: 64fd5fc68ce66e0498f2dd385d14e706, type: 3}
+  - {fileID: -2071027693300666269, guid: 632b5bcbf135ed74e829210fbf8b1637, type: 3}
+  - {fileID: -3341179098309010186, guid: f4ff223946c4e0e4cbafce862d5e7a6e, type: 3}
+  - {fileID: 2955447885181664547, guid: 4c18765837615304281b76f5428723f7, type: 3}
+  - {fileID: 3633120141022065668, guid: f191fbfe1522a1c47a574d0ba8cc7dc0, type: 3}
+  - {fileID: 8318834710593445607, guid: 69db2b1a65461a74798503233c901241, type: 3}
+  - {fileID: 3268904221880769422, guid: 8f240d2d0286a754c930d32fbbf35c18, type: 3}
+  _villaSoldatiExplosionPrefabs:
+  - {fileID: 3633120141022065668, guid: 3adeb975240330e468b3edb83ea60380, type: 3}
+  - {fileID: 8745934245252616343, guid: 24c9a77125b74fb478435dd70dcfac23, type: 3}
+  - {fileID: -3816665447230695631, guid: bb0a2c1079b4b184c9c7c21b7b71af52, type: 3}
+  - {fileID: 3805129899030766960, guid: f2a9f74324f9d5045aeb9c5b94d649c9, type: 3}
+  - {fileID: 2192816999340052991, guid: 2b66fe91727165848b2699896a7be7af, type: 3}
+  - {fileID: 5209123817997785978, guid: b6d6c88dea5704545b0d71a60358926b, type: 3}
+  - {fileID: 4031837255973349497, guid: d6406e075fc14a243a834b28ca371854, type: 3}
+  _raklionExplosionPrefabs:
+  - {fileID: 1964839160131987099, guid: 4731585c6c63a934cbbe7c5f9f16e86e, type: 3}
+  - {fileID: 2086177163481068707, guid: 784e683ee8d1c2b46804720236eaeb3c, type: 3}
+  - {fileID: 7006960990010394317, guid: 261a5de4156b6294296c79ef7270a8bd, type: 3}
+  - {fileID: 5843113702199318739, guid: 52e8addd7e565a34ea07bb924390740a, type: 3}
+  - {fileID: 5843113702199318739, guid: 51f7900ca4deff04ab7c822690553243, type: 3}
+  - {fileID: 4522193780549684696, guid: 12e0f4ecdeda80b4baa32ca6ed96d58e, type: 3}
+  - {fileID: 303185053039256521, guid: cbc0cafcd3d34f74f990fb9c4ed5d4dc, type: 3}
+  _acheronExplosionPrefabs:
+  - {fileID: -3816665447230695631, guid: 2d92ecda45bf603428a3d316188042b1, type: 3}
+  - {fileID: -3816665447230695631, guid: f2770835150058e44923610bb90314ee, type: 3}
+  - {fileID: 2086177163481068707, guid: fd76dc6ff2b45c549b9456b458b67419, type: 3}
+  - {fileID: 2799764760990433444, guid: 7ec363c8df426644ea85f8d6d570561c, type: 3}
+  - {fileID: 560497876365876119, guid: b5c8ca7ed10b61e499cce8ec3b6e2e4c, type: 3}
+  - {fileID: 7992581457051631329, guid: 5c755f9bc5253ea418e919994537dcc7, type: 3}
+  - {fileID: 5160330999989812686, guid: effb650189dc5714e9e9801b1cfb3991, type: 3}
+  - {fileID: 8961099351460361024, guid: 0e14482a2776e8244820cf55307d4784, type: 3}

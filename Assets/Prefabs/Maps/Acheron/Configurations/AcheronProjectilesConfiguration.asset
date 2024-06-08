@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cff3b8e02faa154592eb135298af487, type: 3}
+  m_Name: AcheronProjectilesConfiguration
+  m_EditorClassIdentifier: 
+  _projectilePrefabs:
+  - {fileID: 2548525567338291537, guid: dd0c22ea4b7acee47bd2595059548d68, type: 3}
+  - {fileID: 3804430507921704557, guid: 8c936d3da2067644ebef725ba90527d4, type: 3}
+  - {fileID: 5574723405283840181, guid: f0473937e8844ff46a86f960fedd9a2b, type: 3}
+  - {fileID: 6973758740192970578, guid: bb365490f08e1044c99b7661adf2ad67, type: 3}
+  - {fileID: 6870917649090986414, guid: 7c27b5dfe8b12d84f9d742d6e196a1b7, type: 3}
+  - {fileID: 4159296449947812330, guid: 5673b018b0147ad4bacfdf90dce90f43, type: 3}
+  - {fileID: 3807364679642753409, guid: dc403f6136088a14fa8daa972b39bc24, type: 3}
+  - {fileID: 8112987630706282856, guid: 5f8d249076755fe46b1a171131160ad3, type: 3}
+  - {fileID: 7565272032780417689, guid: 85720f0ccfd9bd346b74bc61c9a0441b, type: 3}
+  - {fileID: 161483455543974749, guid: 5e9c7ba96b80d77468f4a78317150a75, type: 3}
+  - {fileID: 3888715038514054121, guid: 33668358148ce344497fcfb10a34e75b, type: 3}
+  - {fileID: 6040754050832184128, guid: b5ac17ace1afb7f4b9aa034d44cedc13, type: 3}
+  _id: {fileID: 11400000, guid: a1c13830c8d56a646a346d1687832107, type: 2}

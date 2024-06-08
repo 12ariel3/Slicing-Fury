@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be473dfe5ec0a54bb2be3e8d85cb24f, type: 3}
+  m_Name: Pyra
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: c50a401ecc11a984eacd8310ac368e6b, type: 2}
+  _trailRenderer: {fileID: 3592795817459276035, guid: 2396bbb0889ed3941890325d866070a8, type: 3}
+  _trailUpgradeBaseValue: 14
+  _trailUnlockScoreCost: 10200
+  _trailUnlockGemsCost: 870
+  _trailBaseHp: 1200
+  _trailBaseAttack: 144
+  _trailCriticalMultiplier: 0.6
+  _trailCriticalProbability: 0.17
+  _trailExcelentMultiplier: 0.3
+  _trailExcelentProbability: 0.11
+  _trailHpAbsorbProbability: 0.15
+  _trailHpAbsorbDenominator: 2
+  _trailMultipleHitsProbability: 0.65
+  _swordImage: {fileID: 550613529, guid: 93eb4592ad5e39d4f86dd8f295e4a645, type: 3}
+  _deepBackground: {r: 0.5283019, g: 0.2426034, b: 0, a: 0}
+  _background: {r: 0.8962264, g: 0.048620883, b: 0, a: 0}
+  _iconBackground: {r: 0.5283019, g: 0, b: 0.02532995, a: 0}
+  _nameColor: {r: 1, g: 0.53646713, b: 0, a: 0}
+  _levelColor: {r: 0.9137255, g: 0.5112971, b: 0, a: 0}

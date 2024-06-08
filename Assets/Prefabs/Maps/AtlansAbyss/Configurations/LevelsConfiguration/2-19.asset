@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad066dabcfe7aef44865ccd30daf1b24, type: 3}
+  m_Name: 2-19
+  m_EditorClassIdentifier: 
+  _spawnConfigurations:
+  - _projectileNumberToSpawnConfigurations: 2
+    _timeToSpawn: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 3
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 3.5
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 4
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 4.5
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 5
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 5.5
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 6
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 6.5
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 7
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 7.5
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 1
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 8
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 1
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 8.5
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 9
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 1
+  - _projectileNumberToSpawnConfigurations: 2
+    _timeToSpawn: 11
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 2
+    _timeToSpawn: 13
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 1
+  - _projectileNumberToSpawnConfigurations: 2
+    _timeToSpawn: 15
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 2
+    _timeToSpawn: 17
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 2
+    _timeToSpawn: 19
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 3
+    _timeToSpawn: 22
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 3
+    _timeToSpawn: 25
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 3
+    _timeToSpawn: 28
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 3
+    _timeToSpawn: 31
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 3
+    _timeToSpawn: 34
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 1
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 35
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 36
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 1
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 37
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 38
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 39
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 2
+    _timeToSpawn: 40
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 2
+    _timeToSpawn: 42
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 1
+  - _projectileNumberToSpawnConfigurations: 3
+    _timeToSpawn: 45
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 47
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 47.5
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 48
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 48.5
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 49
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 1
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 49.5
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 50
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 50.5
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 51
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 53
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 54
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 54
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 55
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 56
+    _isTop: 0
+    _isLeftAside: 1
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 57
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 58
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 3
+    _timeToSpawn: 60
+    _isTop: 1
+    _isLeftAside: 0
+    _isRightAside: 0
+  _projectileLevel: 25
+  _energyToRest: 5
+  _levelNumber: 19
+  _totalLevelNumber: 49
+  _projectileToSpawnConfiguration:
+  - {fileID: 11400000, guid: d2481f3a89a5ef144b450d482de40305, type: 2}
+  - {fileID: 11400000, guid: e0035f6dab1a8574797424dac2e3fabb, type: 2}
+  _specialProjectileCastPercentaje: 25
+  _specialProjectileToSpawnConfiguration:
+  - {fileID: 11400000, guid: c40bc3eb13a45b946943f6eaa1e2f08d, type: 2}
+  - {fileID: 11400000, guid: e9f5200f82fca614ab81a3bdc759703c, type: 2}
+  - {fileID: 11400000, guid: 9804d00631175ff41a5b10daf57ba3b8, type: 2}
+  - {fileID: 11400000, guid: bd104ba154c6d6c4a8537660914e0c50, type: 2}
+  - {fileID: 11400000, guid: bd104ba154c6d6c4a8537660914e0c50, type: 2}
+  - {fileID: 11400000, guid: bd104ba154c6d6c4a8537660914e0c50, type: 2}

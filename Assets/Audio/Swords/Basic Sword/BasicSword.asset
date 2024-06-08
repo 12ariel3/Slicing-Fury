@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d06210c3b14702b43a6a701a013f94aa, type: 3}
+  m_Name: BasicSword
+  m_EditorClassIdentifier: 
+  _audioName: Basic Sword
+  _audios:
+  - {fileID: 8300000, guid: 2d65571f4abf8124fa2b5b99b6e07c5d, type: 3}
+  - {fileID: 8300000, guid: 83c71375f38c20140822c634283d244c, type: 3}
+  - {fileID: 8300000, guid: e5db8a731ad8c444a8f321c94d5f27b8, type: 3}
+  - {fileID: 8300000, guid: 3047eb44e18273d4c8dfdbe8d4a73118, type: 3}

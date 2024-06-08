@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d06210c3b14702b43a6a701a013f94aa, type: 3}
+  m_Name: PlasmaBurst
+  m_EditorClassIdentifier: 
+  _audioName: Plasma Burst
+  _audios:
+  - {fileID: 8300000, guid: e9f35db354ba7ec4997c1bfbc4a24cec, type: 3}
+  - {fileID: 8300000, guid: bdfcadadb07a524428b876cb9e6ca92d, type: 3}
+  - {fileID: 8300000, guid: aff39e7c08b5e8f46953f4aa59a2ef16, type: 3}

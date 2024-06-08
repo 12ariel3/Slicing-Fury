@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cff3b8e02faa154592eb135298af487, type: 3}
+  m_Name: MoonWalkerProjectilesConfiguration
+  m_EditorClassIdentifier: 
+  _projectilePrefabs:
+  - {fileID: 4159296449947812330, guid: 5673b018b0147ad4bacfdf90dce90f43, type: 3}
+  - {fileID: 7996618434631272282, guid: 7289f1225b6244a46a51b75c118aa2f0, type: 3}
+  - {fileID: 8126056539182518778, guid: 984c964b3ed83cc42995b8fbc86cedac, type: 3}
+  - {fileID: 3617404215467212727, guid: 323d6eb2c1010c44e9f31bec60bc94ce, type: 3}
+  - {fileID: 8409681192232918274, guid: 90556e4b5afedfc4fa48c0c74dfb814a, type: 3}
+  - {fileID: 5970740382267535223, guid: c84f5a752ef18cb4b9a696fdec3fa853, type: 3}
+  - {fileID: 4432038331737906483, guid: 6a575cfd8f59e1547b3b70bbdde65c92, type: 3}
+  - {fileID: 3547536843109802922, guid: 1d91c1347ac4f8c4495bc55ceb5123ae, type: 3}
+  - {fileID: 7565272032780417689, guid: 85720f0ccfd9bd346b74bc61c9a0441b, type: 3}
+  - {fileID: 161483455543974749, guid: 5e9c7ba96b80d77468f4a78317150a75, type: 3}
+  - {fileID: 3888715038514054121, guid: 33668358148ce344497fcfb10a34e75b, type: 3}
+  - {fileID: 6040754050832184128, guid: b5ac17ace1afb7f4b9aa034d44cedc13, type: 3}
+  _id: {fileID: 11400000, guid: bbba0e37f8cc71e47b59a2d5fefa4782, type: 2}

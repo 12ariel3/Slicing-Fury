@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d06210c3b14702b43a6a701a013f94aa, type: 3}
+  m_Name: Rainbow
+  m_EditorClassIdentifier: 
+  _audioName: Rainbow
+  _audios:
+  - {fileID: 8300000, guid: b59301b152373ef429ebcc805673b905, type: 3}
+  - {fileID: 8300000, guid: eafd324cb5aeb634ebc57a092f6c2aa2, type: 3}
+  - {fileID: 8300000, guid: a6cb79872fad8f04ab8e4d7e80a64fb6, type: 3}
+  - {fileID: 8300000, guid: 5f5b7acb4ae629b4aa981a9399091ab3, type: 3}

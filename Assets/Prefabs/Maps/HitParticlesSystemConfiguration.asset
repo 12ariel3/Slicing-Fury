@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cc04c5113528fb48ad64a24babbbce7, type: 3}
+  m_Name: HitParticlesSystemConfiguration
+  m_EditorClassIdentifier: 
+  _hitPrefabs:
+  - {fileID: -5749895019951729139, guid: d49562ed621c41b40a8700d4fa166997, type: 3}
+  - {fileID: 3524277086871161267, guid: 8e851a84bfc3f714aafcdafaf9b79461, type: 3}
+  - {fileID: 2762870056607934417, guid: 659c3712a36059e46b5b95b43275edc4, type: 3}
+  - {fileID: -81922562369730607, guid: ed0c022a338d3384d9ee622d354a94e2, type: 3}
+  - {fileID: 8702858701813261091, guid: a2499bb806c8c824e99d4f7111290aeb, type: 3}
+  - {fileID: 614052641969479696, guid: 24b0cce7e93426e4e8ff91ba3c6ce64f, type: 3}
+  - {fileID: -2671709137572741379, guid: 8459c718b68824347ab52164c72f82e1, type: 3}
+  - {fileID: -2376746105940743003, guid: 598036e88c26a9e46afd02f56e2e815e, type: 3}
+  - {fileID: 1791457373498410718, guid: 18bc84a280c20414894f32aab3b4cec1, type: 3}
+  - {fileID: 3395565570186374567, guid: 5a681a616aa09394f9e85db1f5faabbe, type: 3}
+  - {fileID: 4031837255973349497, guid: 374c515bae58ebf4ea1b4384114161ab, type: 3}

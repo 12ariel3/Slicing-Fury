@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5594d43bbf1dc59498e4efaa7ab0d8bf, type: 3}
+  m_Name: PlayerToSpawnConfiguration
+  m_EditorClassIdentifier: 
+  _playerId: {fileID: 11400000, guid: 7b455caa8bc5de94788c4254f3826581, type: 2}
+  _trailRenderer: {fileID: 7466732591561287462, guid: 766a16f425017db4eb0699924de7ba9b, type: 3}
+  _baseHp: 300
+  _baseAttack: 20
+  _baseCriticalMultiplier: 2
+  _baseCriticalProbability: 5
+  _baseExcelentMultiplier: 5
+  _baseExcelentProbability: 5
+  _baseHpAbsorbProbability: 5
+  _baseHpAbsorbDenominator: 12
+  _baseMultipleHitsProbability: 5
+  _baseNumberOfHits: 1

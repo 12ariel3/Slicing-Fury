@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 213fb1b2a45f60148bbefbc3d196f681, type: 3}
+  m_Name: TrailsConfiguration
+  m_EditorClassIdentifier: 
+  _trailsConfigurations:
+  - {fileID: 11400000, guid: 3da7d668982e6974f8dc49e3fac0eef0, type: 2}
+  - {fileID: 11400000, guid: 3febfcb5e565e514e858028a63e67f0c, type: 2}
+  - {fileID: 11400000, guid: 2ec3ac6bf10b4e642917c2acbea8ae3e, type: 2}
+  - {fileID: 11400000, guid: acd4132a9bbbb5248b09c819d752e192, type: 2}
+  - {fileID: 11400000, guid: 248dd1cd59aeb7246b218a522d337774, type: 2}
+  - {fileID: 11400000, guid: 7e4e95ce85251db428e27dcc62a729b5, type: 2}
+  - {fileID: 11400000, guid: e6cd007a07e25e44e96ad2585b103451, type: 2}
+  - {fileID: 11400000, guid: 3deef932071eace4fa7d1435ab9b1b78, type: 2}
+  - {fileID: 11400000, guid: abd0972e33a26054bb6e4d09e58d9e9e, type: 2}
+  - {fileID: 11400000, guid: a44a146128d0f734ab8b2462edb565ae, type: 2}
+  - {fileID: 11400000, guid: 89394d63dad65a340b9f4df12ce1d665, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be473dfe5ec0a54bb2be3e8d85cb24f, type: 3}
+  m_Name: SoulSeeker
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: b02e1d0e440631947a1ae8b881146726, type: 2}
+  _trailRenderer: {fileID: 5936277037599362470, guid: a4d8de20b2c666a40902865f147c59df, type: 3}
+  _trailUpgradeBaseValue: 24
+  _trailUnlockScoreCost: 18300
+  _trailUnlockGemsCost: 1600
+  _trailBaseHp: 3400
+  _trailBaseAttack: 220
+  _trailCriticalMultiplier: 1
+  _trailCriticalProbability: 0.2
+  _trailExcelentMultiplier: 1
+  _trailExcelentProbability: 0.15
+  _trailHpAbsorbProbability: 0.08
+  _trailHpAbsorbDenominator: 2
+  _trailMultipleHitsProbability: 0.45
+  _swordImage: {fileID: -1652057175, guid: 11c50ab56fc1f35498c28110c32f760d, type: 3}
+  _deepBackground: {r: 0.40929866, g: 0, b: 0.5, a: 0}
+  _background: {r: 0.3060895, g: 0, b: 0.6320754, a: 0}
+  _iconBackground: {r: 0.5566038, g: 0, b: 0.5490781, a: 0}
+  _nameColor: {r: 0.5746312, g: 0, b: 1, a: 0}
+  _levelColor: {r: 0.5764706, g: 0, b: 1, a: 0}

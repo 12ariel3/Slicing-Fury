@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be473dfe5ec0a54bb2be3e8d85cb24f, type: 3}
+  m_Name: RainbowSword
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: a6e58dafda8da5243bec2b3cce1c18d0, type: 2}
+  _trailRenderer: {fileID: 7466732591561287462, guid: 1f2ad4b8ad514014098fbaefcba5987b, type: 3}
+  _trailUpgradeBaseValue: 2
+  _trailUnlockScoreCost: 1000
+  _trailUnlockGemsCost: 50
+  _trailBaseHp: 180
+  _trailBaseAttack: 21
+  _trailCriticalMultiplier: 0.25
+  _trailCriticalProbability: 0.15
+  _trailExcelentMultiplier: 0.15
+  _trailExcelentProbability: 0.08
+  _trailHpAbsorbProbability: 0.05
+  _trailHpAbsorbDenominator: 1
+  _trailMultipleHitsProbability: 0.15
+  _swordImage: {fileID: 1626256806, guid: 93eb4592ad5e39d4f86dd8f295e4a645, type: 3}
+  _deepBackground: {r: 0, g: 0.09174347, b: 1, a: 0}
+  _background: {r: 1, g: 0, b: 0.74622536, a: 0}
+  _iconBackground: {r: 0.03903436, g: 0.9529412, b: 0, a: 0}
+  _nameColor: {r: 0, g: 1, b: 0.8612397, a: 0}
+  _levelColor: {r: 1, g: 0.9214889, b: 0, a: 0}

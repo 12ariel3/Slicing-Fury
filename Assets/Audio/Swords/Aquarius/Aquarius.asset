@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d06210c3b14702b43a6a701a013f94aa, type: 3}
+  m_Name: Aquarius
+  m_EditorClassIdentifier: 
+  _audioName: Aquarius
+  _audios:
+  - {fileID: 8300000, guid: a5d6e75a06747974daa59ff7ab349884, type: 3}
+  - {fileID: 8300000, guid: 5685b3921568acb4697401130be1c358, type: 3}
+  - {fileID: 8300000, guid: 708d823bb8d1f6141b8cac5f087e0bdd, type: 3}
+  - {fileID: 8300000, guid: 8e5dfb90d2841e04194609fc2ae96641, type: 3}

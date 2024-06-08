@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cff3b8e02faa154592eb135298af487, type: 3}
+  m_Name: RaklionProjectilesConfiguration
+  m_EditorClassIdentifier: 
+  _projectilePrefabs:
+  - {fileID: 4736701777854568515, guid: 0a0f6f70194133246bb20af2f82df7e0, type: 3}
+  - {fileID: 7383791113973492436, guid: 8a492a9518765774193ddb9a6251c3f2, type: 3}
+  - {fileID: 6312488062847047445, guid: 3f782daa821cff34e832097f4a07405e, type: 3}
+  - {fileID: 5411406131372614775, guid: fcb5c7ad67cdff1468e83b845ae70a02, type: 3}
+  - {fileID: 1412619003286097834, guid: 78758ddc72d57f74f9081262785d9765, type: 3}
+  - {fileID: 5469060110787229251, guid: e7f1da7ba542b9e46834529f5b0d3729, type: 3}
+  - {fileID: 1354210282878289376, guid: f28a5317f097c054cac9327b72620f68, type: 3}
+  - {fileID: 7565272032780417689, guid: 85720f0ccfd9bd346b74bc61c9a0441b, type: 3}
+  - {fileID: 161483455543974749, guid: 5e9c7ba96b80d77468f4a78317150a75, type: 3}
+  - {fileID: 3888715038514054121, guid: 33668358148ce344497fcfb10a34e75b, type: 3}
+  - {fileID: 6040754050832184128, guid: b5ac17ace1afb7f4b9aa034d44cedc13, type: 3}
+  _id: {fileID: 11400000, guid: e806def33b6c97d4d8148dedd9774048, type: 2}

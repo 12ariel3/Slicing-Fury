@@ -1,0 +1,5652 @@
+fileFormatVersion: 2
+guid: 9c3f6bdfea77ca2489a990a7ffb01760
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2685e5be9f2e17849a7907a7b011c828
+      internalID: -574261571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 364
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5ff9338bc76514e86bc1ee74bd8b8f
+      internalID: 1924545403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 362
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080d8e5f210a1004f89937a6460f6b06
+      internalID: -932415419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 362
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a469ebb313e9ff14bb5dfba5628872a7
+      internalID: -1620119974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474c3219628050d4697ae2716eb0f4c6
+      internalID: 1273853498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 363
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe7ba2d41b9407498d04adf62e6095a
+      internalID: -135909925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 363
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521bb12926c46e843a93f75e994ea7f6
+      internalID: -855626323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 364
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8dab297c772934da2122fe25d971df
+      internalID: -1767934548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 364
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84be4ae3a38ba64ba5cec2d35725377
+      internalID: 1765327900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 361
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a89bf3ec25452245bb4bc4a17661c5e
+      internalID: -316245960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 361
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f0f683d2af2c4eb7b2fe6db72dded
+      internalID: -2053883408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 365
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37a4f3d0364287439a7166c4c511c12
+      internalID: -1819988393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 362
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecb78e8f3b4ce343a3d9d37c0a99a71
+      internalID: 1760186422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 360
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae3ca9d8ffdefa418b807d753ddc37b
+      internalID: -2120883674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 360
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cbf7ba83b0cda43a705428abcbeb88
+      internalID: 1767254925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_15
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 361
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed7586ae6e5e2748bffff0b6739b46b
+      internalID: 2049295604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 341
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f05e83b68d946d429a94cef398ec210
+      internalID: 605858789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 339
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8965c4f25c8ca4c4098184a6b4c25c3f
+      internalID: 1036084094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 339
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392c51fb5c68c1b4ba2c8167b9c749ad
+      internalID: 673879478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 337
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3342d7aa75931584bae0fbd973a9802e
+      internalID: -1970867880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee00e778f80625949b6af9f4778fcea6
+      internalID: 2018147003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 339
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d0f9000b634624ab56fb7636b4d9aa
+      internalID: -1965915431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 339
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0488dbf58d2f54b4aab33e1804772d3b
+      internalID: 1376124330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 337
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a451433e0fc364c93dcff3710d2247
+      internalID: -1126232569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 337
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26840350983d7ca4695e7a708ddd8acf
+      internalID: 1589880725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 338
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf81edabc64ba74e8266691965fe9be
+      internalID: -1743547675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 339
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f05d467e07b92f45a0a8531c20c21e3
+      internalID: -1899825653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 339
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824571af41ef39441ad0f1caa34978b4
+      internalID: 518323155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 339
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6183c416cf3bf1242a35878f8d2e786a
+      internalID: -560600032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 339
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0e3629814dbe1428c322798ac5cf1b
+      internalID: -1350611563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 337
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c11ae1d902cb9458f977c497926ed5
+      internalID: -2116966188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea76f9ef878b04c8be2314dda23559
+      internalID: -1502201697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 315
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139bc36dd1b5ca4499149d3604d50c88
+      internalID: 1081199717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 313
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c1f2723a5933d4bb91608811b15a03
+      internalID: -1786716799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 314
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd63718142832e45bde4a870db6875d
+      internalID: 1515080184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 314
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f100e6c529b1e45a99c210454c51e1
+      internalID: 1563627199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 314
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08a661cdeaf55242ba6cb55fb037ae8
+      internalID: 581207857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 316
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda749dd891b5204897c7efa6a2f98ff
+      internalID: 1500616983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 316
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f39d613227574a85fc173836a7314
+      internalID: 1978310361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3266057b5327945a4309c16ec88e8b
+      internalID: -1708875630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 328
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051a52f02f15e2f408416a17b2532367
+      internalID: -1515632487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_41
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 316
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f98c7594c704f4aa5b72a43440e007
+      internalID: -2063646602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 316
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0e5ea5e40f6c4448734c6cbeff7a41
+      internalID: -53989336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_43
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 316
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6563e37a12991b4ea104c8aa340904b
+      internalID: 436492533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 313
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf4e190e54bf346a829d6d8a1908d1
+      internalID: -705459469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_45
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 313
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f6987bdecf6e54ba463d30810a5d16
+      internalID: -139945931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 313
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686e33fdff5156b4ea614da6412ca4ba
+      internalID: 2123498403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 313
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f8ae5feb244d4db3d63cd1b741236
+      internalID: 804566599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 313
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c8b580f3a94ca4088937245e0bbcfe
+      internalID: 76492924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 288
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87106aa89abe6f0479d38e20fe85e508
+      internalID: 2116622605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 288
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c1f604b20e20a4a8dbf7b9da8e0225
+      internalID: 1147860067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d753a1dad7ed5f4c88bb25a6fafb801
+      internalID: 1858856247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_52
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 288
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d39879bb892ee478e661709332405f
+      internalID: -1711281714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d0ad5adf6f4ee44b9ac51dbbf13168
+      internalID: 1846946114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 288
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77689e62c6a10104aa663bc961d25293
+      internalID: -1403409973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_55
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 289
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcca9a480195b84d9d6844dfda29f01
+      internalID: 1648917349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 288
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8514b0871b7d44388d8fceb9c5d748
+      internalID: 2001896751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_57
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 292
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b896099593e4fb94687567b20866bfa8
+      internalID: 1835262680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 292
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdb1cac9ad992742b80530d06398bf3
+      internalID: 785909733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_59
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 291
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ebc6e5608bff645bc132fcc9a362a7
+      internalID: 2078957625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_60
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 290
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fd915cd9aa5f84ba7f2d242a6a0c60
+      internalID: 1492512044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4f8a99badbc5e419e739b19244e094
+      internalID: -2491631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_62
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 290
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c2350893e224645bab958725b8fb38
+      internalID: -1911701498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_63
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 290
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af66d5a9da9a0488e08f1dfa159018
+      internalID: 778568099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_64
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 290
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea306c0c571d40458ab6c5b834c1f7f
+      internalID: -1074372275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc883183d5ec54eadf09b07827557a
+      internalID: -616356210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_66
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 264
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1e89638aa84604198c2e651d145475
+      internalID: -1434510198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 264
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0ceb9990562d34c8b998dd3e287458
+      internalID: -1140989775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_68
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 264
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c73a080d96934d8bd9020a60e980d
+      internalID: -1875991268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 264
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926d22a410fbb9640b1934ec9daf8747
+      internalID: -320701315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_70
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 264
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6733e8b5823d5549a0f4ee0ebdf4fff
+      internalID: -150192625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 265
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3a123195ad6ef4689bf54b77a6a7ab
+      internalID: -694344710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_72
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 267
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7674a95dbe9c0c48b1dd6c840c5e067
+      internalID: -916900366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_73
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 267
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da63f4c638cc99841ab56d1969630e16
+      internalID: -489375087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 267
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905a7206ba03d8546bf724e8c8b478e0
+      internalID: 1018527292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_75
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 267
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9381db93fed5644bc2779d183a8805
+      internalID: 759230785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 267
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606c09cc79f310346877c186c4110c53
+      internalID: -1073088789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_77
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 266
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69894407abbdf34e9e3ea0aeb218da2
+      internalID: -1128521984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_78
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 266
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe368eacf0b50418ab300eb5908fa7
+      internalID: 984091981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_79
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 266
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c108777d07675840af9c0801058da16
+      internalID: 1210591963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_80
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 266
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c43f29853068334499b5d0e2aeb3229
+      internalID: 598995794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_81
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec0f5b5f5779645948dd7d8ac871f7
+      internalID: -320143883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_82
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 240
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0de538ce09769459b74c54c9718678
+      internalID: 2053356910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d2889f93ac1f49a48834c2d84f2dc
+      internalID: 1551482175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 240
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ea8c6d417651a4a9eb83bd6c12915b
+      internalID: 591696195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70565c985d04d6f49abf9b8750ccc416
+      internalID: 585821974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_86
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 240
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f648c58aa5e9c9c49a2255e38d493649
+      internalID: 936553796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_87
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 241
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6f5787b8b58fd41bbb5950c8029575
+      internalID: 962814769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_88
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 247
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a12a365c7d53d4d9b0b8552a71d34f
+      internalID: 571959152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3108b62c8cab6da45ab950f31181d3c2
+      internalID: -1818634097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_90
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 244
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deda49b77dd2104485767882a0f46f3
+      internalID: 528216789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_91
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 244
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139f7e0665de8014e9be22a00e997031
+      internalID: -906396003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_92
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 244
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca24315995e33f247a73bbd65c1fc9b2
+      internalID: -18917365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_93
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 242
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02d5ca2eb9cc324ebe8d214401f1b7d
+      internalID: 1472702819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_94
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 242
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4b8fa0908d3094cbbf06586faaadbd
+      internalID: -493997013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_95
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 242
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556c80eeeff6fa241841f893c6687f2a
+      internalID: 1794117526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_96
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 241
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09542b4f663630e468bb34eb5332f994
+      internalID: -273514259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_97
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 241
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ce174697798ae43869339d0144e3fe
+      internalID: -1494045482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 216
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8889d3b9d6f343a2c874bcf1b792d
+      internalID: -1532532551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_99
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 216
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0f5d73fb470df45ae553f2b5978418
+      internalID: 1348283843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_100
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 216
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198cfc875358f14429821bb8bf76fa84
+      internalID: 1625031785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_101
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 216
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828251a1d17deb347b92dcd8e81a3585
+      internalID: -1148493984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_102
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 216
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d3cd8b040132a4ebb3a94ece565113
+      internalID: -1312784067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_103
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 216
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768af380314648c4e8ecee669eca37a5
+      internalID: 41469607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 216
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc64ec6e66cda43ab1d0683fdab9c5
+      internalID: 1903932156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_105
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 223
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9a2e01e26de824c9398682643a08e0
+      internalID: 1678525493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_106
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 218
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d47227d8b0e1a409967e03f4d275bf
+      internalID: 1644537359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_107
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c11bbdd5df9d149ab1d5db3132d6eb
+      internalID: -1453246555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_108
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 218
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f1670083caecf44b007490469de86b
+      internalID: -1607055254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_109
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 218
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3b38f1f2de1ee409ce49104d2e9215
+      internalID: -1757985989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_110
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 218
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebaab2944ce03b4f8b04facbc872711
+      internalID: 1743035196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_111
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 218
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28115cb6efa6984faa823f3da360505
+      internalID: -2022971077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_112
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 219
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b8ebd4e16e6b42be784b1315077d1
+      internalID: 1708049590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_113
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 218
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db716fa6c28cd5e47b0992a8182424d4
+      internalID: -1041996977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_114
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 217
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44383aa5ef20b4498cb3b23a525f6bd
+      internalID: 820716048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_115
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c654f938cd7954bb5de1b1e4fb29e7
+      internalID: -218464392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_116
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b43e192cc2ea9459970a635d79305a
+      internalID: -461039003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315646feb3e7d0644b40ce3b0698d678
+      internalID: 1069684520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5286506e2bad4d4391419a71128d130
+      internalID: 427977427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2812738758d91438886398a3172bc5
+      internalID: 952382028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_120
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be24767fd6840dd49874ce33e519a0d4
+      internalID: -2045978455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_122
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb8391b61d07324db31f5d530851f38
+      internalID: 462164265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_124
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2165a4de647b0a479f2592da4eb5044
+      internalID: -1802471828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_125
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 194
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300fd0204f909b34a8c93f48ea9d9cfe
+      internalID: 1967605303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_126
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0c2abd173cbdc44bf4c87deeb47453
+      internalID: -1889565430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_127
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf57e8e775085448041733bc2027ec
+      internalID: -117995138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_128
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51a8daa996ae814f9ab4491fe6375b5
+      internalID: -879157569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_129
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 195
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bbb80c0e1b8cb4b8e8a93da339e8df
+      internalID: -305679886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_130
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 194
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808fc7046965e044a90e2941d32cb21d
+      internalID: 2015630705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_131
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09edac3a2ed999f438c765aadc139981
+      internalID: -1573481032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_132
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 169
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64860aa5fa7078044898dd834748659a
+      internalID: 1201170785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473c81e991d560540b47438e7628a241
+      internalID: -2076420558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_134
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 168
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a048501a39a88b6408b7aed3f6c846df
+      internalID: -1902283050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f4be6adba17ab478841267efeedf81
+      internalID: 1426017083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_136
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d15424bb1059646ad9fc41e58ed5d5
+      internalID: 1673296078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_140
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f01ac43e478b2b41a51ee6ae1457433
+      internalID: -1067854198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_141
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 170
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605356a7b1c42e641b943a64c92c9ecd
+      internalID: -1024950660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_142
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 170
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c711f2591c18e346a7dec72df0b61c8
+      internalID: 1391625940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_143
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209eedeb1b35c1b42adf0ce269c24fb4
+      internalID: 80533311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_144
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443781b351da9447ac5c1c38fac98e2
+      internalID: 1700162284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_145
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 171
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b50bd0e15d584f9c8279595ea0d2d
+      internalID: -1847530414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_146
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 170
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4c4842ac97c2b4980dee24242d7dae
+      internalID: 1950692350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_147
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 147
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e92ca1f5198e2a458aec94333fe0362
+      internalID: -379530495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_148
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 146
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30168333ab4cfb04cb3f55563b19dedb
+      internalID: -959819598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_149
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c601b59b60d366d4ea8c86fde2832fe3
+      internalID: 1850442946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_150
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 146
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000acbadf31a78d48b813269a124ea99
+      internalID: 960318741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_151
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 146
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2bad1b1c876a94c9bba3ebb1c6eb56
+      internalID: 2090054372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_152
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 145
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36418cd4c2fa6c4fa5822f0330ae4d7
+      internalID: -2099871827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_153
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 145
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3defa8287a06bfe479875ceb8872c54c
+      internalID: 499024659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_154
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 147
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bf64bb5388db94c859ddc2ea7e3dda
+      internalID: 689656008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_155
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 147
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb3345c13aca9479109475e9eabd36
+      internalID: 655198563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_156
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba7f2c5df5a6014ea3e27f11f3eeadf
+      internalID: -1498025259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_157
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 146
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb7b64b38f93e04ca0f8c98d0c2bbdf
+      internalID: 338738010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_158
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 146
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c01e35d0ffd2d7449adc95e140a872d
+      internalID: 1309978994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_159
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f643586262aec064fad2826b0d4d15c5
+      internalID: -1066845626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_160
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 146
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc562286fd93244484b33679065c587
+      internalID: 669042586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_161
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 147
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a4c3440cb1ea3488b33537ef0b6aa8
+      internalID: 1424790234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_162
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 146
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a0325463a213943a47328835ac624d
+      internalID: -1543695745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_163
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9253e650ae21245469de991f5f1e1bb5
+      internalID: 1006219860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_164
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0f7873edcd56542a6da069732ad143
+      internalID: -1454875991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_165
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fdba1bb3c2fa9459b67eb866474926
+      internalID: 55825373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_166
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f6ec0a07e223c469a68dedd761c96f
+      internalID: 778916973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_167
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982de2020a3920c49b471674e99aa584
+      internalID: 99994454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_168
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a2c306fb74afd40a31cbd5e88e47c5
+      internalID: 292128107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c5fd29955ee28478ca5fffed65ed5e
+      internalID: -453790251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_170
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299ee0063e405444a9ccf2a848bb67c1
+      internalID: 593909287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b39c55410b6724fbfceb5ec3c8cd98
+      internalID: -1322217265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_172
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1c0a56ca754594b95f3e330039107e
+      internalID: 369978084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_173
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 122
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86422c0c886a9e84da1ff9e13f4d0d24
+      internalID: -1983294726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_174
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 122
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66938689fa5256f469d59a6e90161615
+      internalID: 140131926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_175
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 122
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f735d01159304849b50e4bf202876dc
+      internalID: -206035668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_176
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 122
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af90f19cebe53446ad09688f4b11519
+      internalID: -316490665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 123
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e125f70fbdc4db489955c493dd6c9e3
+      internalID: -341737745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_178
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 122
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f97e8ca16ebf234f92cd71a6a2dfabe
+      internalID: 850965972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_179
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9307b9caa306a408ec7e91d2743009
+      internalID: -149375110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_180
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 97
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a6b7abca36e4749a1383b677d8cd5d
+      internalID: 1409549286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c59488fdcc8f444190b19c6be8c05c2
+      internalID: 2106188693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_182
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92f634049c970c4fa9c66d21e7cefe1
+      internalID: -1156472790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a091472ac410d34e95c08309b73597e
+      internalID: -1045200563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_184
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537399fae19315c4299d2452bacc66d5
+      internalID: 625507478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_185
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 72
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e53e0a4f5217084fac7c8ac1daf3a64
+      internalID: -1747812678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_186
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 97
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d3f3673c9de14d9d2c49db4761cca
+      internalID: 1564665450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_187
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990aa1e05bff9545b694b3713cbc2bd
+      internalID: 1788601940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_188
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2850ab8d7e5fe742b011109b27ef8e7
+      internalID: 1265983759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_189
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 98
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91bfa5e52c33d40a81a4924ec48c24
+      internalID: -162520783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_190
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 98
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25855cdca00c56446a4a957239cbb474
+      internalID: -897794595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_191
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b4e4c97fc27343807897ac084ca49
+      internalID: -2103535864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_192
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 98
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a8ccc2782d32241979a6c75f8443b5
+      internalID: -256566757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_193
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 99
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e17f5ba67e6764cbc72d3cee6abdc9
+      internalID: -1349843257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_194
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 98
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252e807ee79f70c419158e82f50a84c5
+      internalID: -798940914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_195
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 74
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3564a973d0a326e4eaa4b13670636aef
+      internalID: 1914486059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_196
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 74
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2444d0622a04535449920c36f96a4822
+      internalID: 1055487747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_197
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 73
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6214d7b4f8a26144a5953ccd76a5694
+      internalID: 1513496002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6530a8515f2c742bd322ed77668bdf
+      internalID: -2089509132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_199
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 74
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc46d44dbcc1dac49ba99a3c8640b3b7
+      internalID: 1800657871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_200
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe8445f83d5834280eb7a670aafd3f
+      internalID: -390685671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_201
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 72
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b907043dfe034b991a8f7185c87d0
+      internalID: 1154705507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_202
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16e91f3645bd8f4fbdec7b2c287087d
+      internalID: 992822239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_203
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 74
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b79bd489e0ad842a044462a061390b
+      internalID: -883005915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_204
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 74
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0d94a04bce95246a44979c3f736a41
+      internalID: -1285682880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_205
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 74
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd7e383ae5fa5843bbad901a4d13c4f
+      internalID: -1811939171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_206
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 74
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c735fd9b529a74d9fb71b87ca3600c
+      internalID: 1973688268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_207
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 75
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829719611d235014c9ac1af299baad5b
+      internalID: 1473022556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_208
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 74
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ae05c8d198fc4192218ed71370b54
+      internalID: -956398018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_209
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4b09adbc3566e40884e666e04f9b0e
+      internalID: 1608715653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_210
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aa440389f05ac48a521b2f6e280b21
+      internalID: 993237673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_211
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b817c94575058a469583c4d81180081
+      internalID: 1471813092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_212
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3424d07b5a0eec646a58c61aaf68b00d
+      internalID: 1720984118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_213
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 49
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb55acb11f2d894f8514951db085812
+      internalID: 1773533647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_214
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 50
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ebafc1addcb1940843e8b8c934cb84
+      internalID: -1000926841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_215
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8468a44cc5b39468498cef67be96bf
+      internalID: -314787314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_216
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 26
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe9c374c78a8b9429b3cc3c615e13d5
+      internalID: -2129546225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_217
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 49
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9c3d6a9c0e2834d8f103c45ed359b9
+      internalID: -874566827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_218
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff80f8872dcc02e41a6d962d70ad6dee
+      internalID: -601186661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_219
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 50
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4578647514e1142b4face0dab3da51
+      internalID: 68430800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_220
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 50
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3437a376195fb8245bf63231ae54e876
+      internalID: 1575850917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_221
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b12eade901aae4b866311f28f449eb
+      internalID: -403432185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_222
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc48f2c0cb0b7884182e1f9a6549ef1e
+      internalID: 1909623176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_223
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 51
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dfdc4cda32bd4499443c91b89fcbfb
+      internalID: -1168728039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_224
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 50
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87064be791b768e4ba8e19d82f6cd292
+      internalID: 690114076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_225
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 27
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192355460b2a87f43961281dd692efb2
+      internalID: -294477633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_226
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ac5687433311a4bb04014e9f13c4cf
+      internalID: 339903049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_227
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c15c5d8b401704088952d783925425
+      internalID: -1568124508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_228
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 27
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773a4e39e8bee34684b5af1badef26b
+      internalID: -1395377054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_229
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 27
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7fe5f3639c36a4b9a9e89935db47ec
+      internalID: -469993397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_230
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 26
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc258522df152e142bed194f033ed429
+      internalID: 1080333800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_231
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd64f7835e4f844595d780f16fd7e8f
+      internalID: -1268869477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_232
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 26
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d79901c183e9f4fa29168c67730dff
+      internalID: -955317066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_233
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672dc344fa48c14583d903174829a4a
+      internalID: 708847113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_234
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 26
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0527ffa8a7405624fbfd3c10061ed6c4
+      internalID: 2013881049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_235
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 26
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ac9562758e5d444beef27e94b0b65b
+      internalID: -1516122634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_236
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762181bf560795846bd1b03c514b926e
+      internalID: -1950818267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_237
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d3a5eac1666c94194334c4fd46dbf5
+      internalID: -1986187554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_238
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 27
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958177e523a04d44e94f3f31016b1111
+      internalID: -1985279679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_239
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 26
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3722a7caed8e846ba6a0ecedbd2364
+      internalID: -372598668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_240
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f3148d52c85f4468e0de63f11e1a82
+      internalID: -640831479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_241
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c51ed0f56f9d049881d81927d87477
+      internalID: -1656371160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_242
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d65ec3b4bb009448550bd015652e0e
+      internalID: 574971027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f96e403501bd94a85948fd5bda710f
+      internalID: 2124386908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_244
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550977f08dc4f6f4cb3624bdfe12d19e
+      internalID: 402848218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_245
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07a0967ca0b6b44c8a905a9f75619f2
+      internalID: -214156496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_246
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7212fa863281eb246a0d83b933e40352
+      internalID: 81045365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_247
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff75a4b0dc68944a94f078385c8ef3
+      internalID: -2009190700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_248
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b86358f1d33a4493ecd43a60dd172
+      internalID: -610912527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_249
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c44138788af0d54b9123959a9929139
+      internalID: -27643573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_250
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879bf3c1a5e9fc640996447bbc1cbcb6
+      internalID: -2057450871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_251
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241f63e7f3f5543478b68df3b4d9144d
+      internalID: -2039612251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_252
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b60839de96a64449eda3045719eefb
+      internalID: -1422691013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_253
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652aa6bbffe838c42b6d124e583867b7
+      internalID: 1925075862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusk_Icons_x24_254
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5587c8ad660878144a9a61292afd9e55
+      internalID: -1200112511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dusk_Icons_x24_0: -574261571
+      Dusk_Icons_x24_1: 1924545403
+      Dusk_Icons_x24_10: -2053883408
+      Dusk_Icons_x24_100: 1625031785
+      Dusk_Icons_x24_101: -1148493984
+      Dusk_Icons_x24_102: -1312784067
+      Dusk_Icons_x24_103: 41469607
+      Dusk_Icons_x24_104: 1903932156
+      Dusk_Icons_x24_105: 1678525493
+      Dusk_Icons_x24_106: 1644537359
+      Dusk_Icons_x24_107: -1453246555
+      Dusk_Icons_x24_108: -1607055254
+      Dusk_Icons_x24_109: -1757985989
+      Dusk_Icons_x24_11: -1819988393
+      Dusk_Icons_x24_110: 1743035196
+      Dusk_Icons_x24_111: -2022971077
+      Dusk_Icons_x24_112: 1708049590
+      Dusk_Icons_x24_113: -1041996977
+      Dusk_Icons_x24_114: 820716048
+      Dusk_Icons_x24_115: -218464392
+      Dusk_Icons_x24_116: -461039003
+      Dusk_Icons_x24_117: 1069684520
+      Dusk_Icons_x24_118: 427977427
+      Dusk_Icons_x24_119: 952382028
+      Dusk_Icons_x24_12: 1760186422
+      Dusk_Icons_x24_120: -2045978455
+      Dusk_Icons_x24_121: -900579652
+      Dusk_Icons_x24_122: 462164265
+      Dusk_Icons_x24_123: 1500862044
+      Dusk_Icons_x24_124: -1802471828
+      Dusk_Icons_x24_125: 1967605303
+      Dusk_Icons_x24_126: -1889565430
+      Dusk_Icons_x24_127: -117995138
+      Dusk_Icons_x24_128: -879157569
+      Dusk_Icons_x24_129: -305679886
+      Dusk_Icons_x24_13: -2120883674
+      Dusk_Icons_x24_130: 2015630705
+      Dusk_Icons_x24_131: -1573481032
+      Dusk_Icons_x24_132: 1201170785
+      Dusk_Icons_x24_133: -2076420558
+      Dusk_Icons_x24_134: -1902283050
+      Dusk_Icons_x24_135: 1426017083
+      Dusk_Icons_x24_136: 1673296078
+      Dusk_Icons_x24_137: -2083654620
+      Dusk_Icons_x24_138: 432678163
+      Dusk_Icons_x24_139: 76677632
+      Dusk_Icons_x24_14: 1767254925
+      Dusk_Icons_x24_140: -1067854198
+      Dusk_Icons_x24_141: -1024950660
+      Dusk_Icons_x24_142: 1391625940
+      Dusk_Icons_x24_143: 80533311
+      Dusk_Icons_x24_144: 1700162284
+      Dusk_Icons_x24_145: -1847530414
+      Dusk_Icons_x24_146: 1950692350
+      Dusk_Icons_x24_147: -379530495
+      Dusk_Icons_x24_148: -959819598
+      Dusk_Icons_x24_149: 1850442946
+      Dusk_Icons_x24_15: 2049295604
+      Dusk_Icons_x24_150: 960318741
+      Dusk_Icons_x24_151: 2090054372
+      Dusk_Icons_x24_152: -2099871827
+      Dusk_Icons_x24_153: 499024659
+      Dusk_Icons_x24_154: 689656008
+      Dusk_Icons_x24_155: 655198563
+      Dusk_Icons_x24_156: -1498025259
+      Dusk_Icons_x24_157: 338738010
+      Dusk_Icons_x24_158: 1309978994
+      Dusk_Icons_x24_159: -1066845626
+      Dusk_Icons_x24_16: 605858789
+      Dusk_Icons_x24_160: 669042586
+      Dusk_Icons_x24_161: 1424790234
+      Dusk_Icons_x24_162: -1543695745
+      Dusk_Icons_x24_163: 1006219860
+      Dusk_Icons_x24_164: -1454875991
+      Dusk_Icons_x24_165: 55825373
+      Dusk_Icons_x24_166: 778916973
+      Dusk_Icons_x24_167: 99994454
+      Dusk_Icons_x24_168: 292128107
+      Dusk_Icons_x24_169: -453790251
+      Dusk_Icons_x24_17: 1036084094
+      Dusk_Icons_x24_170: 593909287
+      Dusk_Icons_x24_171: -1322217265
+      Dusk_Icons_x24_172: 369978084
+      Dusk_Icons_x24_173: -1983294726
+      Dusk_Icons_x24_174: 140131926
+      Dusk_Icons_x24_175: -206035668
+      Dusk_Icons_x24_176: -316490665
+      Dusk_Icons_x24_177: -341737745
+      Dusk_Icons_x24_178: 850965972
+      Dusk_Icons_x24_179: -149375110
+      Dusk_Icons_x24_18: 673879478
+      Dusk_Icons_x24_180: 1409549286
+      Dusk_Icons_x24_181: 2106188693
+      Dusk_Icons_x24_182: -1156472790
+      Dusk_Icons_x24_183: -1045200563
+      Dusk_Icons_x24_184: 625507478
+      Dusk_Icons_x24_185: -1747812678
+      Dusk_Icons_x24_186: 1564665450
+      Dusk_Icons_x24_187: 1788601940
+      Dusk_Icons_x24_188: 1265983759
+      Dusk_Icons_x24_189: -162520783
+      Dusk_Icons_x24_19: -1970867880
+      Dusk_Icons_x24_190: -897794595
+      Dusk_Icons_x24_191: -2103535864
+      Dusk_Icons_x24_192: -256566757
+      Dusk_Icons_x24_193: -1349843257
+      Dusk_Icons_x24_194: -798940914
+      Dusk_Icons_x24_195: 1914486059
+      Dusk_Icons_x24_196: 1055487747
+      Dusk_Icons_x24_197: 1513496002
+      Dusk_Icons_x24_198: -2089509132
+      Dusk_Icons_x24_199: 1800657871
+      Dusk_Icons_x24_2: -932415419
+      Dusk_Icons_x24_20: 2018147003
+      Dusk_Icons_x24_200: -390685671
+      Dusk_Icons_x24_201: 1154705507
+      Dusk_Icons_x24_202: 992822239
+      Dusk_Icons_x24_203: -883005915
+      Dusk_Icons_x24_204: -1285682880
+      Dusk_Icons_x24_205: -1811939171
+      Dusk_Icons_x24_206: 1973688268
+      Dusk_Icons_x24_207: 1473022556
+      Dusk_Icons_x24_208: -956398018
+      Dusk_Icons_x24_209: 1608715653
+      Dusk_Icons_x24_21: -1965915431
+      Dusk_Icons_x24_210: 993237673
+      Dusk_Icons_x24_211: 1471813092
+      Dusk_Icons_x24_212: 1720984118
+      Dusk_Icons_x24_213: 1773533647
+      Dusk_Icons_x24_214: -1000926841
+      Dusk_Icons_x24_215: -314787314
+      Dusk_Icons_x24_216: -2129546225
+      Dusk_Icons_x24_217: -874566827
+      Dusk_Icons_x24_218: -601186661
+      Dusk_Icons_x24_219: 68430800
+      Dusk_Icons_x24_22: 1376124330
+      Dusk_Icons_x24_220: 1575850917
+      Dusk_Icons_x24_221: -403432185
+      Dusk_Icons_x24_222: 1909623176
+      Dusk_Icons_x24_223: -1168728039
+      Dusk_Icons_x24_224: 690114076
+      Dusk_Icons_x24_225: -294477633
+      Dusk_Icons_x24_226: 339903049
+      Dusk_Icons_x24_227: -1568124508
+      Dusk_Icons_x24_228: -1395377054
+      Dusk_Icons_x24_229: -469993397
+      Dusk_Icons_x24_23: -1126232569
+      Dusk_Icons_x24_230: 1080333800
+      Dusk_Icons_x24_231: -1268869477
+      Dusk_Icons_x24_232: -955317066
+      Dusk_Icons_x24_233: 708847113
+      Dusk_Icons_x24_234: 2013881049
+      Dusk_Icons_x24_235: -1516122634
+      Dusk_Icons_x24_236: -1950818267
+      Dusk_Icons_x24_237: -1986187554
+      Dusk_Icons_x24_238: -1985279679
+      Dusk_Icons_x24_239: -372598668
+      Dusk_Icons_x24_24: 1589880725
+      Dusk_Icons_x24_240: -640831479
+      Dusk_Icons_x24_241: -1656371160
+      Dusk_Icons_x24_242: 574971027
+      Dusk_Icons_x24_243: 2124386908
+      Dusk_Icons_x24_244: 402848218
+      Dusk_Icons_x24_245: -214156496
+      Dusk_Icons_x24_246: 81045365
+      Dusk_Icons_x24_247: -2009190700
+      Dusk_Icons_x24_248: -610912527
+      Dusk_Icons_x24_249: -27643573
+      Dusk_Icons_x24_25: -1743547675
+      Dusk_Icons_x24_250: -2057450871
+      Dusk_Icons_x24_251: -2039612251
+      Dusk_Icons_x24_252: -1422691013
+      Dusk_Icons_x24_253: 1925075862
+      Dusk_Icons_x24_254: -1200112511
+      Dusk_Icons_x24_26: -1899825653
+      Dusk_Icons_x24_27: 518323155
+      Dusk_Icons_x24_28: -560600032
+      Dusk_Icons_x24_29: -1350611563
+      Dusk_Icons_x24_3: -1620119974
+      Dusk_Icons_x24_30: -2116966188
+      Dusk_Icons_x24_31: -1502201697
+      Dusk_Icons_x24_32: 1081199717
+      Dusk_Icons_x24_33: -1786716799
+      Dusk_Icons_x24_34: 1515080184
+      Dusk_Icons_x24_35: 1563627199
+      Dusk_Icons_x24_36: 581207857
+      Dusk_Icons_x24_37: 1500616983
+      Dusk_Icons_x24_38: 1978310361
+      Dusk_Icons_x24_39: -1708875630
+      Dusk_Icons_x24_4: 1273853498
+      Dusk_Icons_x24_40: -1515632487
+      Dusk_Icons_x24_41: -2063646602
+      Dusk_Icons_x24_42: -53989336
+      Dusk_Icons_x24_43: 436492533
+      Dusk_Icons_x24_44: -705459469
+      Dusk_Icons_x24_45: -139945931
+      Dusk_Icons_x24_46: 2123498403
+      Dusk_Icons_x24_47: 804566599
+      Dusk_Icons_x24_48: 76492924
+      Dusk_Icons_x24_49: 2116622605
+      Dusk_Icons_x24_5: -135909925
+      Dusk_Icons_x24_50: 1147860067
+      Dusk_Icons_x24_51: 1858856247
+      Dusk_Icons_x24_52: -1711281714
+      Dusk_Icons_x24_53: 1846946114
+      Dusk_Icons_x24_54: -1403409973
+      Dusk_Icons_x24_55: 1648917349
+      Dusk_Icons_x24_56: 2001896751
+      Dusk_Icons_x24_57: 1835262680
+      Dusk_Icons_x24_58: 785909733
+      Dusk_Icons_x24_59: 2078957625
+      Dusk_Icons_x24_6: -855626323
+      Dusk_Icons_x24_60: 1492512044
+      Dusk_Icons_x24_61: -2491631
+      Dusk_Icons_x24_62: -1911701498
+      Dusk_Icons_x24_63: 778568099
+      Dusk_Icons_x24_64: -1074372275
+      Dusk_Icons_x24_65: -616356210
+      Dusk_Icons_x24_66: -1434510198
+      Dusk_Icons_x24_67: -1140989775
+      Dusk_Icons_x24_68: -1875991268
+      Dusk_Icons_x24_69: -320701315
+      Dusk_Icons_x24_7: -1767934548
+      Dusk_Icons_x24_70: -150192625
+      Dusk_Icons_x24_71: -694344710
+      Dusk_Icons_x24_72: -916900366
+      Dusk_Icons_x24_73: -489375087
+      Dusk_Icons_x24_74: 1018527292
+      Dusk_Icons_x24_75: 759230785
+      Dusk_Icons_x24_76: -1073088789
+      Dusk_Icons_x24_77: -1128521984
+      Dusk_Icons_x24_78: 984091981
+      Dusk_Icons_x24_79: 1210591963
+      Dusk_Icons_x24_8: 1765327900
+      Dusk_Icons_x24_80: 598995794
+      Dusk_Icons_x24_81: -320143883
+      Dusk_Icons_x24_82: 2053356910
+      Dusk_Icons_x24_83: 1551482175
+      Dusk_Icons_x24_84: 591696195
+      Dusk_Icons_x24_85: 585821974
+      Dusk_Icons_x24_86: 936553796
+      Dusk_Icons_x24_87: 962814769
+      Dusk_Icons_x24_88: 571959152
+      Dusk_Icons_x24_89: -1818634097
+      Dusk_Icons_x24_9: -316245960
+      Dusk_Icons_x24_90: 528216789
+      Dusk_Icons_x24_91: -906396003
+      Dusk_Icons_x24_92: -18917365
+      Dusk_Icons_x24_93: 1472702819
+      Dusk_Icons_x24_94: -493997013
+      Dusk_Icons_x24_95: 1794117526
+      Dusk_Icons_x24_96: -273514259
+      Dusk_Icons_x24_97: -1494045482
+      Dusk_Icons_x24_98: -1532532551
+      Dusk_Icons_x24_99: 1348283843
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

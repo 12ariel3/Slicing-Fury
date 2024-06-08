@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d06210c3b14702b43a6a701a013f94aa, type: 3}
+  m_Name: BatPierce
+  m_EditorClassIdentifier: 
+  _audioName: Bat Pierce
+  _audios:
+  - {fileID: 8300000, guid: 814aab6e1d2f53640b2083170f431a92, type: 3}
+  - {fileID: 8300000, guid: bf6179fda45712e479421fdb078c5a5a, type: 3}
+  - {fileID: 8300000, guid: c2b97a3695ec66a478074af85c6ef366, type: 3}

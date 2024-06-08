@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cff3b8e02faa154592eb135298af487, type: 3}
+  m_Name: AtlansAbyssProjectilesConfiguration
+  m_EditorClassIdentifier: 
+  _projectilePrefabs:
+  - {fileID: 3427955331656678373, guid: abb51c5e55d711e44ad7b70a9727210b, type: 3}
+  - {fileID: 2786951573420313272, guid: 9a56ee36d74914747b139dc7300561c9, type: 3}
+  - {fileID: 5312745086892828399, guid: 306fb73d6c89e084da01970db6ef2f05, type: 3}
+  - {fileID: 8870837326063779048, guid: 3680095926b820243bf370d37fc45cbd, type: 3}
+  - {fileID: 3871151337923704314, guid: 94359d6dda138834d81788c3b13322c3, type: 3}
+  - {fileID: 2278284882336491498, guid: db2b19463e611fb479e5b8574505cfe0, type: 3}
+  - {fileID: 5483300724521344504, guid: 66e4bb7482b836a4dac4a02b6fd87f9d, type: 3}
+  - {fileID: 1676469374705307748, guid: cb813f34185234d47b6c7c7753d5b025, type: 3}
+  - {fileID: 7565272032780417689, guid: 85720f0ccfd9bd346b74bc61c9a0441b, type: 3}
+  - {fileID: 161483455543974749, guid: 5e9c7ba96b80d77468f4a78317150a75, type: 3}
+  - {fileID: 3888715038514054121, guid: 33668358148ce344497fcfb10a34e75b, type: 3}
+  - {fileID: 6040754050832184128, guid: b5ac17ace1afb7f4b9aa034d44cedc13, type: 3}
+  _id: {fileID: 11400000, guid: f924c9bd70f73a34c963f75d6d781cc9, type: 2}
